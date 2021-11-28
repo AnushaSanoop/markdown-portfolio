@@ -1,5 +1,4 @@
 # Interested Areas
-# - java
-# - python
-# - c
-# 
+- java
+- python
+- c
