@@ -1,1 +1,2 @@
-Sample for *italics* and **bold**
+**_Markdown_** is **simple**... 
+*I like it*
