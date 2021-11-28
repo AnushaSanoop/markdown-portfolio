@@ -1,4 +1,4 @@
-# Interested Areas
+### Interested Languages
 - java
 - python
-- c
+- C
