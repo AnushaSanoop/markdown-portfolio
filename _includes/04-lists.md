@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Interested Areas
+# <ul>
+# <li>java</li>
+# <li>python</li>
+# <li>c</li>
+# </ul>
